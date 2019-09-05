@@ -1,0 +1,13 @@
+.card {
+  color: white;
+  text-align: center;
+  background: #7bec1e;
+  padding: 8px;
+  margin: 8px;
+  border-radius: 5px;
+  width: 300px;
+}
+
+.luar{
+  margin: auto;
+}
